@@ -1,0 +1,2 @@
+"# Front"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Manak99/Front.gitgit push -u origin master
+"# Front"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Manak99/Front.gitgit push -u origin master
